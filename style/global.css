@@ -37,3 +37,13 @@ a:hover{
   color: var(--brand-color);
   text-decoration: underline;
 }
+
+.container{
+  padding-inline:32px ;/*vai aumentar os dois lados do projeto */
+  max-width: 1280px;
+  margin-inline: auto;
+}
+
+.bg-surface-color{
+  background-color: var(--surface-color);
+}
