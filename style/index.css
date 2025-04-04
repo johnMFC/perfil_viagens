@@ -1,3 +1,6 @@
 /*O INDEX VAI SER O CABEÇA DE TODOS OS OUTROS CONTENDO AS IMPORTAÇÕES*/
-@import url("./global.css");
-@import url("./nav.css");
+@import url("global.css");
+@import url("nav.css");
+@import url("header.css");
+@import url("main.css");
+@import url("footer.css");
